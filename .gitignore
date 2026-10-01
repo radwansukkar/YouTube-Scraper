@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+/YouTubeScraper/
+result_youtube/
+.idea/
+.vscode/
+build/
+dist/
+*.spec
